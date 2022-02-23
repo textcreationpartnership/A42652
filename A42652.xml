@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of an old English-Puritan or non-conformist by John Geree ...</title>
+            <author>Geree, John, 1601?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42652</idno>
+            <idno type="STC">Wing G592</idno>
+            <idno type="STC">ESTC R7875</idno>
+            <idno type="EEBO-CITATION">12921925</idno>
+            <idno type="OCLC">ocm 12921925</idno>
+            <idno type="VID">95400</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of an old English-Puritan or non-conformist by John Geree ...</title>
+                  <author>Geree, John, 1601?-1649.</author>
+               </titleStmt>
+               <extent>[1], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Puritans --  England.</term>
+               <term>Characters and characteristics.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95400:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>THE CHARACTER Of an Old <hi>ENGLISH-P<g ref="char:V">Ʋ</g>RITAN</hi> OR NON-CONFORMIST.</p>
+            <p>By <hi>John Geree</hi> M.A. and late Preach<g ref="char:EOLhyphen"/>er of the Word at Saint <hi>ALBANS.</hi>
+            </p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95400:2"/>
+            <!-- PDF PAGE 104 -->
+            <head>THE CHARACTER Of an old <hi>ENGLISH P<g ref="char:V">Ʋ</g>RITAN,</hi> OR, NONCONFORMIST,</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Old Engliſh Puritane was ſuch an one, that honoured God<note n="a" place="margin">Mat. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.37, 38, 39. 1 Pet. 2.17</note> above all, and under God gave<note n="b" place="margin">Rom. 13.7.</note> every one his due. His<note n="c" place="margin">Mat. 6.33.</note> firſt care was to ſerve God, and therein he did not what was good in his<note n="d" place="margin">Deut. 12.8.32</note> own, but in Gods ſight, making the word of God the rule of his worſhip. He highly eſteemed<note n="e" place="margin">Col. 2.5.</note> or<g ref="char:EOLhyphen"/>der in the Houſe of God; but would not under colour of that, ſubmit to ſuperſtitious rites, which are ſuper<g ref="char:EOLhyphen"/>fluous, &amp;<note n="f" place="margin">Ver. 21, 22</note> periſh in their uſe. He reverenced<note n="g" place="margin">Rom. 13.1.</note> Autho<g ref="char:EOLhyphen"/>rity, keeping within its ſphere; but durſt not under pretence of ſubjection to the higher powers<note n="h" place="margin">Mat. 15.9 Col. 2 8.</note>, wor<g ref="char:EOLhyphen"/>ſhip God after the traditions of men. He made con<g ref="char:EOLhyphen"/>ſcience of<note n="i" place="margin">Acts. 2.42.</note> all Gods Ordinances, though<note n="k" place="margin">1 Cor. 1.17</note> ſome he eſteemed of more conſequence. He was much in<note n="l" place="margin">Col. 4 2.</note> prayer; with it he<note n="m" place="margin">Pſal. 92.2.</note> began, and cloſed the day. In it he was exerciſed in his<note n="n" place="margin">Pſal. 55.17 Mat. 6.6</note> cloſet,<note n="o" place="margin">2 Sam. 6.20</note> family,<note n="p" place="margin">1 Tim. 2.1, 2</note> and publike aſſembly. He eſteemed that manner of praier beſt, where by the<note n="q" place="margin">1 Sam. 1.15 Rom. 8 26</note> gift of God, expreſſions were va<g ref="char:EOLhyphen"/>ried
+<pb n="2" facs="tcp:95400:3"/>
+               <!-- PDF PAGE 105 -->according to preſent wants and occaſions; yet did he not account<note n="r" place="margin">Numb. 10.35, 36</note> ſet-forms unlawful. Therefore in that circumſtance of the Church he did not wholly<note n="ſ" place="margin">1 Co. 9.20, 21.22, 23.</note> reject the Liturgy, but the corruption of it. He eſtee<g ref="char:EOLhyphen"/>med<note n="t" place="margin">Acts 13.15 Pſal. 1.2</note> reading of the word an ordinance of God both in private and publike; but did not account reading to be preaching. The Word<note n="u" place="margin">2 Tim. 3.13, 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> read the eſteemed of more authority, but the<note n="x" place="margin">1 Cor. 1.2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Rom. 1 16</note> word preacht of more effi<g ref="char:EOLhyphen"/>cacy.<note n="y" place="margin">Mat 28 20</note> He accounted preaching as neceſſary now as in the Primitive Church: Gods<note n="z" place="margin">1 Cor. 1 21</note> pleaſure being ſtill by the fooliſhneſs of preaching to ſave thoſe that be<g ref="char:EOLhyphen"/>lieve. He eſteemed that preaching beſt<note n="a" place="margin">1 Cor 14 24, 25. 1 Cor. 2 1, 3, 4, 5 2 Cor 4 5.</note> wherein was moſt of God, leaſt of man, when vain flouriſhes of wit and words were declined, and the demonſtrati<g ref="char:EOLhyphen"/>on of Gods Spirit and Power ſtudied: yet could he diſtinguiſh between<note n="b" place="margin">2. Cor. 2.17 1 Tim 4 13 2 Tim. 2 15 Eccl. 12.9, 10</note> ſtudied plainneſs, and negligent rudeneſs. He accounted<note n="c" place="margin">1 Cor 14.1, 2, 3, 4 5 6, 9</note> perſpicuity the beſt grace of a Preacher; And that<note n="d" place="margin">1 Cor 14.25</note> method beſt which was moſt helpful to underſtanding, affection, and me<g ref="char:EOLhyphen"/>mory. To which ordinarily he eſteemed none ſo con<g ref="char:EOLhyphen"/>ducible as that by Doctrine, Reaſon &amp; Uſe. He eſtee<g ref="char:EOLhyphen"/>med thoſe<note n="e" place="margin">1 Tim. 5.1</note> Sermons beſt that came cloſeſt to the con<g ref="char:EOLhyphen"/>ſcience; yet would he have mens conſciences awake<g ref="char:EOLhyphen"/>ned, not their perſons diſgrac't. He was a man of good ſpiritual<note n="f" place="margin">1 Pet. 2 2.</note> appetite, and could not be conten<g ref="char:EOLhyphen"/>ted with<note n="g" place="margin">Iam. 1.19 2 Tim 4 1 2</note> one meal a day. An Afternoon-Sermon did reliſh as well to him as one in the morning. He was not ſatisfied with<note n="h" place="margin">Prov 28.9</note> prayers without preaching: which if it were wanting at<note n="i" place="margin">Amos 8 <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.12 Mat 3.5.</note> home, he would ſeek a<g ref="char:EOLhyphen"/>broad; yet would he not by<note n="k" place="margin">1 Cor. 3.21, 22. 1 Cor. 4.6</note> abſence diſcourage his Miniſter, if faithful, though another might have quick<g ref="char:EOLhyphen"/>er gifts. A<note n="l" place="margin">2 Tim. 4.1, 2</note> Lecture he eſteemed, though not neceſſa<g ref="char:EOLhyphen"/>ry, yet a bleſſing, &amp; would redeem<note n="m" place="margin">Eph. 5.16</note> ſuch an oppor<g ref="char:EOLhyphen"/>tunity with ſome pains and loſs. The<note n="n" place="margin">1 Cor. 16.2 Acts 20 7. Revel. 1.10.</note> Lords day he e<g ref="char:EOLhyphen"/>ſteemed
+<pb n="3" facs="tcp:95400:3"/>
+               <!-- PDF PAGE 105 -->a divine ordinance, and<note n="o" place="margin">Exod: <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> reſt on't neceſſary, ſo far as it conduced to holineſſe He was<note n="p" place="margin">Exod. 20.8.</note> very con<g ref="char:EOLhyphen"/>ſcientious in obſervance of that day as the Mart day of the Soul He was very carefull to<note n="q" place="margin">2 Chron. 2 2 2<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Pſal 91.</note> remember it, to get houſe and heart in order for it: and when it came, he was ſtudious to improve it. He<note n="r" place="margin">Iſa 58 13, 14</note> redeemed the morning from ſuperfluous ſleep,<note n="ſ" place="margin">Exod 20 8 Acts 20.7</note> and watched the whole day over his thoughts and words not only to reſtrain them from wickedneſſe, but worldlyneſſe.<note n="t" place="margin">Deut. 6, 7</note> All parts of the day were alike holy to him, and his care was continued in it in variety of holy duties: what he heard in publike, he repeated in private, to<note n="u" place="margin">Iſa: 58.13, 14</note> whet it upon himſelf and family. Lawfull<note n="x" place="margin">Exod: 3 2 6</note> recre<g ref="char:EOLhyphen"/>ations he thought this day unſeaſonable, and<note n="y" place="margin">M<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 12.1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7</note> unlaw<g ref="char:EOLhyphen"/>full ones much more abominable: yet he knew<note n="z" place="margin">8 <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.12, 13 1 C<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r 7.14. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 16.15</note> the liberty God gave him for needfull refreſhing, which he did neither refuſe nor abuſe. The Sacrament of<note n="a" place="margin">1 Cor<g ref="char:punc">▪</g> 10: 6</note> Baptiſm he received in Infancy, which he looked back to in age to anſwer his ingagements, and claim his priviledges; <hi>b</hi> The Lords Supper he accounted part of his ſouls food:<note place="margin">5 Iohn 7.37. Iohn 6 48</note> to which he laboured to keep an appetite.<note n="c" place="margin">1 Cor: 10, 16</note> He eſteemed it an ordinance of neareſt communion with Chriſt, and ſo requiring moſt<note n="d" place="margin">1 Cor. 11: 28</note> ex<g ref="char:EOLhyphen"/>act preparation. His firſt care was in the<note n="e" place="margin">1 Cor. 5: 2.13</note> examination of himſelf: yet as an act of<note n="f" place="margin">Revel. 2, 2</note> office or charity, he had an eye on others.</p>
+            <p>He endevoured to have the ſcandalous<note n="g" place="margin">Revel. 2 25.</note> caſt out of Communion: but he<note n="h" place="margin">Mat. 16.6</note> caſt not out himſelf, be<g ref="char:EOLhyphen"/>cauſe the ſcandalous were ſuffered by the negligence of others He condemned that<note n="i" place="margin">
+                  <hi>Acts</hi> 13.12 1 Cor. 7 5</note> ſuperſtition and vanity of Popiſh mock-faſts: yet neglected not one occaſion to humble his ſoul by right faſting:<note n="k" place="margin">Mat. 15 8</note> He abhor<g ref="char:EOLhyphen"/>red the Popiſh doctrine of <hi>opus operatum</hi> in the no<g ref="char:EOLhyphen"/>tion. And in practiſe reſted in<note n="l" place="margin">Ioh. 4.23, 24</note> no performance, but
+<pb n="4" facs="tcp:95400:4"/>
+               <!-- PDF PAGE 106 -->what was done in ſpirit and truth. He thought God had left a rule in his word for<note n="m" place="margin">
+                  <hi>Heb.</hi> 3.2.5, 6.</note> diſcipline, and that<note n="n" place="margin">1 <hi>Tim</hi> 5.17. 1 <hi>Tim.</hi> 4: 14 <hi>Act.</hi> 20.17.28. <hi>Act.</hi> 21.18.</note> Ariſtocratical by Elders, not Monarchichal by Biſhops, nor Democraticall by the people. Right<note n="o" place="margin">
+                  <hi>Ioh.</hi> 11.51</note> Diſcpline he judged pertaining not to the being, but well-being of a Church. Therefore he eſteemed thoſe Churches moſt pure where the Goverment is by Elders, yet unchurched not thoſe where it was o<g ref="char:EOLhyphen"/>therwayes. Perfection<note n="p" place="margin">1 <hi>Cor.</hi> 11.17, 18, 19. <hi>Rev.</hi> 2.14.20.</note> in Churches he thought a thing rather to be deſired then hoped for. And ſo he expected not a Church ſtate without all defects. The<note n="q" place="margin">1 <hi>Cor.</hi> 5.2. <hi>Rev</hi> 2.5. <hi>Ezek.</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 4.</note> corruptions that were in Churches he thought his duty to bewail, with endeavours of amendment: yet would he not<note n="r" place="margin">
+                  <hi>Heb.</hi> 10.25 <hi>Iohn</hi> 4.11.</note> ſeparate, where he might partake in the worſhip, and not in the coruption. He put not<note n="ſ" place="margin">1 <hi>Tim.</hi> 2.8</note> holineſſe in Churches, as in the Temple of the Jews; but onely counted them convenient like their Synagogues. He would have them kept<note n="t" place="margin">1 <hi>Cor.</hi> 14.40</note> decent, not magnificent, knowing that the Goſpel requires not outward pomp. His chiefeſt muſick was<note n="u" place="margin">
+                  <hi>Iam.</hi> 5.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note> ſinging of Pſalm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: wherein though he neglected not the melody of the voice, yet he chiefly looked after that of the<note n="x" place="margin">
+                  <hi>Col.</hi> 3.16.</note> heart. He diſliked ſuch<note n="y" place="margin">1 <hi>Cor.</hi> 14.26.</note> Church muſick as moved ſenſuall delight, and was an hindrance to ſpirituall inlargements. He accounted<note n="z" place="margin">
+                  <hi>Rom.</hi> 13 1. <hi>Iam.</hi> 1.27.</note> ſubjection to the High<g ref="char:EOLhyphen"/>er Powers to be part of pure religion, as well as to viſit the fatherleſſe and widows: yet did he diſtin<g ref="char:EOLhyphen"/>guiſh between authority and luſts of Magiſtrates, to that he ſubmitted,<note n="a" place="margin">1 <hi>Cor.</hi> 7.23</note> but in theſe he durſt not be a ſer<g ref="char:EOLhyphen"/>vant of men, being bought with a price.<note n="b" place="margin">
+                  <hi>Rom.</hi> 13.5</note> Juſt Laws and commands he willingly obeyed not only for fear but for conſcience alſo; but ſuch as were unjuſt he refuſed to obſerve, chuſing<note n="c" place="margin">
+                  <hi>Acts</hi> 4 19</note> rather to obey God then man: yet his refuſall was<note n="d" place="margin">
+                  <hi>Ier.</hi> 26.14 15.</note> modeſt and with ſubmiſ<g ref="char:EOLhyphen"/>ſion
+<pb n="5" facs="tcp:95400:5"/>
+               <!-- PDF PAGE 107 -->to penalties, unleſs he could procure indulgence from Authority. He was careful in all relations to know and do duty, and that with<note n="e" place="margin">Eph 5.21.22, &amp;c.</note> ſingleneſs of heart as unto Chriſt. He accounted<note n="f" place="margin">Col. 3.22</note> religion an engage<g ref="char:EOLhyphen"/>ment to duty, that the beſt Chriſtians ſhould be beſt husbands, beſt wives, beſt parents, beſt children, beſt maſters, beſt ſervants, beſt magiſtrates, beſt ſubjects, that the<note n="g" place="margin">1 Tim. 6.1 Titus 2 9, 10<lb/> 1 Pet 3.1, 2, 3<lb/> Titus 3 1.<lb/> Mat. 17.27</note> doctrine of God might be adorned<note n="h" place="margin">Coloſ. 4 15</note> not blaſphemed. His family he endeavoured to make a Church, both in regard of<note n="i" place="margin">Pſ. 1.1 2, 6 7</note> perſons and exerciſes, ad<g ref="char:EOLhyphen"/>mitting none into it but ſuch as feared God, and la<g ref="char:EOLhyphen"/>bouring that thoſe that were born in it, might be born again to God. He<note n="k" place="margin">1 Chr. 16.43.</note> bleſſed his family morning and evening by the Word and Prayer, and took care to perform thoſe Ordinances in the beſt ſeaſon. He<note n="l" place="margin">Eph. 6 4</note> brought up his children in the nurture and admo<g ref="char:EOLhyphen"/>nition of the Lord, and commanded his<note n="m" place="margin">Gen. 18 19</note> ſervants to keep the way of the Lord. He ſet up<note n="n" place="margin">Pſal. 101</note> diſcipline in his Family, as he deſired it in the Church, not onely reproving,<note n="o" place="margin">1 Sam. 3.13</note> but reſtraining vileneſs in his.<note n="p" place="margin">Tit 2.21, 12</note> He was conſciencious<note n="q" place="margin">Prov. 11.1</note> of equity as well as piety:<note n="t" place="margin">
+                  <hi>Ezek.</hi> 36 26</note> knowing that<note n="r" place="margin">2 Cor. 1.17.</note> unrighteouſneſs is abomination as well as ungodlineſs. He was cautelous in promiſing,<note n="ſ" place="margin">Pſalm. 15.4</note> but careful in performing, counting his word no leſs engagement then his bond. He was a man of a ten<g ref="char:EOLhyphen"/>der heart, not only in regard of his own ſin, but o<g ref="char:EOLhyphen"/>thers<note n="u" place="margin">Lu. 10.3<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.37</note> miſery not counting mercy<note n="x" place="margin">Mat. 25.34, 35<lb/> Iames 2.13</note> arbitrary, but a neceſſary duty, wherein as he prayed for<note n="y" place="margin">Pſalm 112.5</note> Wiſdom to direct him, ſo he ſtudied for<note n="z" place="margin">Rom. 12.8</note> chearfulneſs and<note n="a" place="margin">2 Cor. 9.5, 6 7</note> bounty to act. He was ſober in the uſe of the things of this life, rather<note n="b" place="margin">1 Pet. 5.8<lb/> 1 Cor. 9.27</note> beating down the body, then pampering it; yet<note n="c" place="margin">Eccleſ. 2.14</note> he denied, not himſelf the uſe of Gods bleſſing, leſt he ſhould be<note n="d" place="margin">Deut. 8 10 11</note> unthankful; but a<g ref="char:EOLhyphen"/>voided exceſs leſt he ſhould be forgetful of the Do<g ref="char:EOLhyphen"/>ner
+<pb n="6" facs="tcp:95400:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 108 -->In his habit he avoided<note n="f" place="margin">1 Tim 2: <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 Pet. 3.3, 4</note> coſtlineſs and vanity, neither exceeding his degree in civility, nor declining what ſuted with Chriſtianity, deſiring in all things to expreſs<note n="g" place="margin">Phil 4 8</note> gravity. His whole life he accounted<note n="h" place="margin">Eph. 6.10, 11 12</note> a warfare, wherein Chriſt was his Captain, his arms,<note n="k" place="margin">Epheſ. 6.18 Hoſea 12.4<lb/> 1 cor. 15.48<lb/> Epheſ 4, 14<lb/> Cant. 1 7<lb/> Jer 6.16</note> prayers and tears. The<note n="i" place="margin">Heb 2.9, 10</note> Croſs his Banner, and his<note n="m" place="margin">Luke 8 15<lb/> Rev. 12.11<lb/> and 14.12</note> word <hi>Vincit qui patitur.</hi>
+            </p>
+            <p>He was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> immoveable in all times, ſo that they who in the midſt of many opinions have loſt the view of true Religion, may return to him and there find it.<note n="j" place="margin">Mat. 16 24<lb/> Gal, 6.14, 7</note>
+            </p>
+            <p>REader, Seeing a paſſage in Mr. <hi>Tombes</hi> his Book againſt Paedobaptiſm; wherein he compares the Non conformiſts in <hi>England,</hi> to the Anabaptiſts in <hi>Germany,</hi> in regard of their miſcarriages and ill ſuc<g ref="char:EOLhyphen"/>ceſs in their endeavours, till of late years, I was mo<g ref="char:EOLhyphen"/>ved for the vindication of thoſe Faithful and Reve<g ref="char:EOLhyphen"/>rend Witneſſes of Chriſt, to publiſh this Character; whereof if any ſhall deſire proof in matter of fact, as in matter of right the Margent contains evidence, let him either conſult their Writings, or thoſe who are fit Witneſſes by reaſon of age, fidelity &amp; acquain<g ref="char:EOLhyphen"/>tance, having fully known their Doctrine, manner of li<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, purpoſe, faith, long-ſuffering, love, patience, perſecution and affliction, <hi>&amp;c.</hi> 2 <hi>Tim.</hi> 3.10, 11. And I doubt not but full teſtimony wil be given that their aim and general courſe was according to the Rule: Some extravagants there be in all profeſſions, but we are to judge of a profeſſion by the rule they hold forth, and that carriage of the profeſſors which is general and ordinary.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
